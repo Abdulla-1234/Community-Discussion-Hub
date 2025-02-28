@@ -1,9 +1,10 @@
 # Community Discussion Hub
+![image12](https://github.com/user-attachments/assets/133dd952-27b0-4cc5-b333-89f4f9086245)
 
 ## Overview
 The **Community Discussion Hub** is a platform designed to facilitate real-time discussions and collaboration for community-driven projects. Users can participate in discussions, share insights, and contribute to various community-based initiatives.
 
-## Features
+## ✨ Features
 - **Real-Time Messaging**: Instant messaging and notifications for active discussions.
 - **Threaded Discussions**: Users can create topics and respond to threads with multi-level replies.
 - **User Authentication**: Sign-up/sign-in features using OAuth and JWT for secure authentication.
@@ -19,19 +20,14 @@ The system consists of the following components:
 - **Database**: Uses MongoDB for storing discussion threads, user data, and post information.
 - **Authentication**: OAuth with JWT tokens for secure authentication.
 - **Notification System**: Real-time notifications powered by WebSockets to keep users informed.
+  
+##🛠️ Tech Stack
+Frontend: Next.js, TypeScript, Tailwind CSS
+UI Components: ShadCN
+State Management: React Context API
+Authentication: NextAuth.js (optional)
 
-## Technologies Used
-- **Programming Languages**: TypeScript, JavaScript (Next.js, Node.js)
-- **Backend Framework**: Express.js
-- **Frontend Framework**: Next.js
-- **Real-time Communication**: WebSockets
-- **Database**: MongoDB
-- **Authentication**: OAuth, JWT
-- **Styling**: TailwindCSS
-- **Version Control**: Git, GitHub
-- **Deployment**: Docker, Kubernetes
-
-## Folder Structure
+## 📂 Project Structure
 ```
 COMMUNITY HUB/
 │-- .bolt
@@ -126,7 +122,7 @@ COMMUNITY HUB/
 - [MongoDB](https://www.mongodb.com/) for local database (or use MongoDB Atlas for cloud)
 - [Docker](https://www.docker.com/) (optional for containerized deployment)
 
-### Steps
+### ✅ Steps
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/Community_Discussion_Hub.git
@@ -153,7 +149,7 @@ COMMUNITY HUB/
 - **User Analytics**
 - **Discussion Thread Preview**
 
-## Future Enhancements
+## 🎯 Future Enhancements
 - **Real-Time Search**: Add real-time search functionality to display live results as users type.
 - **Mobile App**: Create a mobile version of the platform for better accessibility.
 - **Advanced Moderation**: Implement machine learning-based moderation tools to detect and block harmful content.
