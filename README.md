@@ -155,5 +155,3 @@ COMMUNITY HUB/
 - **Advanced Moderation**: Implement machine learning-based moderation tools to detect and block harmful content.
 - **Multi-language Support**: Support discussions in multiple languages.
 - **Integration with Social Media**: Allow users to share discussions and posts directly to social media platforms.
-
-> *"Community Discussion Hub - Facilitating Real-Time Collaborative Discussions"* - Published at Your Institution/Company Name, 2023.
