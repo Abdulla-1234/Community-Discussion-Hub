@@ -125,8 +125,8 @@ COMMUNITY HUB/
 ### ✅ Steps
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/Community_Discussion_Hub.git
-   cd Community_Discussion_Hub
+   git clone https://github.com/yourusername/Community_Hub.git
+   cd Community_Hub
    ```
 2. **Install dependencies:**
    ```sh
