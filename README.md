@@ -1,5 +1,7 @@
 # Community Discussion Hub
 ![image12](https://github.com/Abdulla-1234/Community-Discussion-Hub/blob/main/Images/Home_page.png)
+**Access the application:**
+- Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Overview
 The **Community Discussion Hub** is a platform designed to facilitate real-time discussions and collaboration for community-driven projects. Users can participate in discussions, share insights, and contribute to various community-based initiatives.
