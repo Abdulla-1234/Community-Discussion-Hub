@@ -1,5 +1,5 @@
 # Community Discussion Hub
-![image12](https://github.com/user-attachments/assets/133dd952-27b0-4cc5-b333-89f4f9086245)
+![image12](https://github.com/Abdulla-1234/Community-Discussion-Hub/blob/main/Images/Home_page.png)
 
 ## Overview
 The **Community Discussion Hub** is a platform designed to facilitate real-time discussions and collaboration for community-driven projects. Users can participate in discussions, share insights, and contribute to various community-based initiatives.
