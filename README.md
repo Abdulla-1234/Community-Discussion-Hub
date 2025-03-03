@@ -14,7 +14,7 @@ The **Community Discussion Hub** is a platform designed to facilitate real-time 
 - **File Sharing**: Users can upload and share files within discussions.
 
 ### Explore Content
-<img src="https://github.com/Abdulla-1234/Community-Discussion-Hub/blob/main/Images/Explore_content.png" alt="Explore Content" width="300"/>
+<img src="https://github.com/Abdulla-1234/Community-Discussion-Hub/blob/main/Images/Explore_content.png" alt="Explore Content" width="400"/>
 
 
 ### Create Posts
