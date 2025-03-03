@@ -13,6 +13,14 @@ The **Community Discussion Hub** is a platform designed to facilitate real-time 
 - **Analytics**: Displays discussion activity metrics, such as most active threads, user engagement, and post count.
 - **File Sharing**: Users can upload and share files within discussions.
 
+### Explore Content
+![image12](https://github.com/Abdulla-1234/Community-Discussion-Hub/blob/main/Images/Explore_content.png)
+
+### Create Posts
+| Poll | Discussion | Question |
+|---------------|----------------|----------------|
+| ![Poll](https://github.com/Abdulla-1234/Community-Discussion-Hub/blob/main/Images/create_poll.png) | ![Discussion](https://github.com/Abdulla-1234/Community-Discussion-Hub/blob/main/Images/create_discussion.png) | ![Question](https://github.com/Abdulla-1234/Community-Discussion-Hub/blob/main/Images/create_question.png) |
+
 ## System Architecture
 The system consists of the following components:
 - **Frontend**: Built with Next.js (React framework), providing the user interface and real-time updates.
